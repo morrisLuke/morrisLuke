@@ -1,16 +1,68 @@
 ### Hi there 👋
 
-<!--
-**morrisLuke/morrisLuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a small library of contradictions. I started off life in a one-stoplight town in a corner of Kansas and now call Los Angeles home. I spent a decade as a words guy, wrangling wild sentences as a journalist, before transforming into a numbers guy, analyzing healthcare data.
 
-Here are some ideas to get you started:
+## My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Publications
+
+-   [An Emergency Department-Based Care Coordination Program for Underserved Patients](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.14511)\
+    Academic Emergency Medicine\
+    May 17, 2022
+
+-   [30 Characteristics of Patients Restrained in the Emergency Department and Evaluation for Disparities in Care](https://www.annemergmed.com/article/S0196-0644(21)00879-9/fulltext)\
+    Annals of Emergency Medicine\
+    Oct. 22, 2021
+
+#### Talks
+
+-   [Making the Case for Cedars' Community Resource Coordinators](https://morrisluke.github.io/Cedars_CRCs/Cedars_CRCs.html)
+
+-   [Bracketball: Let's Explore March Madness with ncaahoopR](https://youtu.be/_KnVDbc7Rew) ([slides](https://docs.google.com/presentation/d/1F9TTfK1_zRlzdvw4UCseaAXh-NQch4oy6zB3zXMamiY/edit?usp=sharing))
+
+#### Hobby Projects
+
+-   [Kansas Basketball 2021-22 Season Dashboard](https://hzr5pf-luke0morris.shinyapps.io/kansas-basketball-2021-22/) ([repo](https://github.com/morrisLuke/kansas_basketball_dashboard))
+
+-   [Predictive Analytics with College Athletics Financials](https://github.com/morrisLuke/Predictive-Analytics-with-College-Athletics-Financials)
+
+-   [Examining Article Shareability from Text-Mined Data](https://github.com/morrisLuke/Examining-Article-Shareability)
+
+## Education
+
+**Cedars-Sinai Graduate School of Biomedical Sciences**\
+Los Angeles, CA\
+Candidate for Masters in Health Delivery Science\
+Sep 2021 - present
+
+**Merrimack College**\
+North Andover, MA\
+MS in Business Analytics\
+Jan 2018 - July 2019
+
+**University of Kansas**\
+Lawrence, KS\
+BS in Journalism\
+Aug 2005 - May 2009
+
+## Experience
+
+**Business Data Analyst, Emergency Department**\
+Cedars-Sinai Medical Center\
+Sept 2019 - present
+
+**Digital Editor**\
+Circa.com\
+Oct 2018 - March 2019
+
+**Web Producer, Sports**\
+The Dallas Morning News\
+July 2013 - Oct 2018
+
+**Copy Editor**\
+Arkansas Democrat-Gazette\
+Aug 2010 - May 2013
+
+**Copy Editor/Designer**\
+The News & Advance\
+June 2009-July 2010
