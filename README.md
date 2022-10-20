@@ -6,6 +6,10 @@ I’m a small library of contradictions. I started off life in a one-stoplight t
 
 #### Publications
 
+-   [A Tender-Loving-Care Volunteer Program to Provide Non-Clinical, Supportive Interventions to Older Adults in the Emergency Department](https://www.sciencedirect.com/science/article/pii/S019606442200703X)\
+    Annals of Emergency Medicine\
+    Oct. 17, 2022
+
 -   [An Emergency Department-Based Care Coordination Program for Underserved Patients](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.14511)\
     Academic Emergency Medicine\
     May 17, 2022
