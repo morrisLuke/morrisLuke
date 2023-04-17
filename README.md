@@ -37,7 +37,7 @@ I’m a small library of contradictions. I started off life in a one-stoplight t
 **Cedars-Sinai Graduate School of Biomedical Sciences**\
 Los Angeles, CA\
 Candidate for Masters in Health Delivery Science\
-Sep 2021 - present
+Sep 2021 - April 2023
 
 **Merrimack College**\
 North Andover, MA\
