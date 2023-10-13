@@ -53,9 +53,13 @@ Aug 2005 - May 2009
 
 ## Experience
 
+**Business Intelligence and Quality Improvement Analyst, Emergency Medicine**\
+Stanford Medicine\
+Oct 2023 - present
+
 **Business Data Analyst, Emergency Department**\
 Cedars-Sinai Medical Center\
-Sept 2019 - present
+Sept 2019 - Oct 2023
 
 **Digital Editor**\
 Circa.com\
