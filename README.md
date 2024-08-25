@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a small library of contradictions. I started off life in a one-stoplight town in a corner of Kansas and now call Los Angeles home. I spent a decade as a words guy<a rel="me" href="https://fosstodon.org/@lukemorris">,</a>  wrangling wild sentences as a journalist, before transforming into a numbers guy, analyzing healthcare data.
+I’m a small library of contradictions. I started off life in a one-stoplight town in a corner of Kansas and now call Los Angeles home. I spent a decade as a words guy<a rel="me" href="https://rstats.me/@luke_morris">,</a>  wrangling wild sentences as a journalist, before transforming into a numbers guy, analyzing healthcare data.
 
 ## My Work
 
